@@ -40,8 +40,13 @@ const Footer = () => {
           <div>
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
+<<<<<<< HEAD
               <p>1234567890</p>
               <p>contact@FLY BUY.dev</p>
+=======
+              <p>23911A0573861112</p>
+              <p>Fly Buy@VJIT</p>
+>>>>>>> f444f5ac017c2784d4f6951338132b19c9b1816b
             </div>
           </div>
         </div>
